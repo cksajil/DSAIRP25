@@ -7,6 +7,10 @@
 
 
 # Math Notations and Descriptive Statistics
+
+## Math Notations Part 1
+[![math notations 1](https://img.youtube.com/vi/aT3Oc4Z--qQ/0.jpg)](https://www.youtube.com/watch?v=aT3Oc4Z--qQ)
+
 # Descriptive Statistics
 
 [![Intro to Descriptive Statistics](https://img.youtube.com/vi/8Q4oSDfhso8/0.jpg)](https://www.youtube.com/watch?v=8Q4oSDfhso8)
