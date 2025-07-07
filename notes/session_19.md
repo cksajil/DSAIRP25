@@ -1,3 +1,6 @@
+# Mathematics and its Abstract Nature
+[![about_math](https://img.youtube.com/vi/JfoQp_btlHo/0.jpg)](https://www.youtube.com/watch?v=JfoQp_btlHo)
+
 # Linear Algebra for Data Science
 
 ## Key Concepts
