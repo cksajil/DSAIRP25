@@ -52,7 +52,7 @@ git branch dev
 # Checking out a branch
 git checkout dev
 git checkout main
-- git push --set-upstream origin branch_name
+git push --set-upstream origin branch_name
 ```
 
 ## Contributing
