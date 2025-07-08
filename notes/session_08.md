@@ -16,6 +16,9 @@
 ### List
 [![Python List](https://img.youtube.com/vi/GI-PeOJDAps/0.jpg)](https://youtu.be/GI-PeOJDAps)
 
+[![Python List Operations](https://img.youtube.com/vi/fLHKIrht5j0/0.jpg)](https://youtu.be/v=fLHKIrht5j0)
+
+
 ### Tuple
 [![Python Tuple](https://img.youtube.com/vi/0U4h0hDkH7k/0.jpg)](https://youtu.be/0U4h0hDkH7k)
 
