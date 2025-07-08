@@ -10,6 +10,9 @@
 - Opportunities
     - Open Source Experience
 
+[![Version Control](https://img.youtube.com/vi/gGCohy7TCfw/0.jpg)](https://youtu.be/gGCohy7TCfw)
+
+
 ## Configuring Git
 ```bash
 git config --global user.name "username"
