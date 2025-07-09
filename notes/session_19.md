@@ -6,22 +6,41 @@
 ## Key Concepts
 ## Scalars
 ## Vectors
+
 - Push or force in certain direction
+
+[![vector_push](https://img.youtube.com/vi/GZjHB-zwcLY/0.jpg)](https://youtu.be/GZjHB-zwcLY)
+
 - Lives in an abstract vector space
+
 - Direction in abstract sense
+[![row_col_vectors](https://img.youtube.com/vi/ks7YatPVfxI/0.jpg)](https://youtu.be/ks7YatPVfxI)
+
 - Can be 2D, 3D, ..., ND
 - Notation basics
+
 - Row vector, column vector
 
 [![row_col_vectors](https://img.youtube.com/vi/JAdl83M-e_s/0.jpg)](https://www.youtube.com/watch?v=JAdl83M-e_s)
 
 
 - Basis of vector
+[![unit_vector](https://img.youtube.com/vi/S1ipna8-ipM/0.jpg)](https://youtu.be/S1ipna8-ipM)
+
     - In terms of fundamental components: linear independance
     - Changing of basis
+
 - Distance of a point from origin
 - Magnitude/norms of vectors $L_1$ and $L_2$ norm, $L_p$ norm
+
+[![unit_vector](https://img.youtube.com/vi/GdGxteaAt3M/0.jpg)](https://youtu.be/GdGxteaAt3M)
+
+
 - Unit vector
+
+[![unit_vector](https://img.youtube.com/vi/l-CbspzeHlY/0.jpg)](https://youtu.be/l-CbspzeHlY)
+
+
 - Distance between points
     - Euclidean distance
     - Manhattan distance
@@ -29,7 +48,16 @@
     - $a \cdot b = \sum_i a_i b_i$
     - $a \cdot b = \Vert a\Vert \Vert b \Vert \cos \theta$
     - Angle between two vectors
-    - Concept of orthogonality
+
+- Concept of orthogonality
+[![orthogonality](https://img.youtube.com/vi/oDjwNhk1jSs/0.jpg)](https://youtu.be/oDjwNhk1jSs)
+
+[![orthogonality2](https://img.youtube.com/vi/tqxq3XBW53E/0.jpg)](https://youtu.be/tqxq3XBW53E)
+
+
+- Cosine similarity 
+[![cosine_similarity](https://img.youtube.com/vi//LfjWIj9yW4s/0.jpg)](https://youtu.be/LfjWIj9yW4s)
+
 - General equation of line/plain
     - why weights of general forms normal to the plane
 
@@ -37,9 +65,21 @@
     - Projection of a vector $a$ into vector $b$ 
     - $d = \frac{a \cdot b}{\Vert b \Vert} = \frac{\Vert a \Vert \Vert b \Vert \cos \theta}{\Vert b \Vert} = \Vert a \Vert \cos \theta$
 
+[![mat_inv](https://img.youtube.com/vi/BXS7Ccb-Us8/0.jpg)](https://youtu.be/BXS7Ccb-Us8)
+
+
 - Matrices as Transformation on vectors
+[![mat_inv](https://img.youtube.com/vi/MmL-KLK-a9c/0.jpg)](https://youtu.be/MmL-KLK-a9c)
+
+
 - Matrix multiplication as reversible/irreversible AB!=BA
+
 - Inverse of Matrix
+
+[![mat_inv](https://img.youtube.com/vi/BSlbJ8gwZMM/0.jpg)](https://youtu.be/BSlbJ8gwZMM)
+
+
+
 
 - Eigen values and eigen vectors
 
