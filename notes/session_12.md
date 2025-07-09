@@ -6,6 +6,10 @@
 - **Objective:** Learn and apply best practices to write clean, maintainable, and professional Python code.
 
 
+[![Python Coding Best Practices](https://img.youtube.com/vi/TDbo1mLpjOM/0.jpg)](https://youtu.be/TDbo1mLpjOM)
+
+
+
 
 ## 🧱 1. Code Structure and Formatting
 

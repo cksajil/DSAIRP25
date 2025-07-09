@@ -16,7 +16,15 @@
 ### SGD
 ### RMSProp
 ### Adam
-## Convolutional Neural Network
+
+
+## Convolutional Neural Network (CNN)
+
+### Overview of CNN Architectures
+[![Overview of CNN Architectures](https://img.youtube.com/vi/Onj6xwYEVNE/0.jpg)](https://youtu.be/Onj6xwYEVNE)
+
+
+
 ### Biological Inspiration of CNN
 ### Maxpooling
 ## Sequential Models
@@ -47,3 +55,12 @@
 - Custom History
 
 ## Sequential and Functional APIs in Keras
+
+
+## Deep Learning for NLP
+[![Deep Learning for NLP](https://img.youtube.com/vi/-m6JZKNoE6E/0.jpg)](https://youtu.be/-m6JZKNoE6E)
+
+## Word Embedding Techniques in NLP
+[![Word Embedding Techniques in NLP](https://img.youtube.com/vi/KxBjea3khEs/0.jpg)](https://youtu.be/KxBjea3khEs)
+
+

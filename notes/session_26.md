@@ -1,6 +1,11 @@
 # SQL Basics and CRUD
 
 ## Structured Query Language (SQL)
+
+[![Introduction to SQL for Data Scientists](https://img.youtube.com/vi/0x0dW8T-4uo/0.jpg)](https://youtu.be/0x0dW8T-4uo)
+
+
+
 ## SQL basics
 - CRUD (CREATE, READ, UPDATE and DELETE)
 - Join,Group by

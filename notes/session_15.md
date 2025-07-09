@@ -15,12 +15,18 @@
 
 [![Intro to Descriptive Statistics](https://img.youtube.com/vi/8Q4oSDfhso8/0.jpg)](https://www.youtube.com/watch?v=8Q4oSDfhso8)
 
+
+
 ## Measures of central tendency
+[![ Measures of central tendency](https://img.youtube.com/vi/Q3WDm0OV_DY/0.jpg)](https://youtu.be/Q3WDm0OV_DY)
+
 - Mean
 - Median
 - Mode
 
 ## Other metrics
+[![Percentiles and Quartiles](https://img.youtube.com/vi/5Zb8EExsXsI/0.jpg)](https://youtu.be/5Zb8EExsXsI)
+
 - Percentile
 - Quartiles (Q1, Q2, Q3)
 - Interquartile range (IQR = Q3 - Q1)
@@ -28,11 +34,15 @@
 - Max
 
 ## Finding outliers using Quartiles
+[![Finding outliers using Quartiles](https://img.youtube.com/vi/sK0QbCA81Fg/0.jpg)](https://youtu.be/sK0QbCA81Fg)
+
  - Lower Bound (Q1-1.5*IQR)
  - Upper Bound (Q3+1.5*IQR)
  - Outliers: values lower than LB or higher than UB
 
 ## Measures of dispersion
+[![Measures of dispersion](https://img.youtube.com/vi/LumyZy9-MLk/0.jpg)](https://youtu.be/LumyZy9-MLk)
+
  - range
  - variance
  - standard deviation

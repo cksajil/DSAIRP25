@@ -12,3 +12,10 @@
 ### Heatmap
 ### Box-plot
 ## Seaborn
+
+[![Data Visualization Part 2](https://img.youtube.com/vi/SsosANWiitQ/0.jpg)](https://youtu.be/SsosANWiitQ)
+
+## Feature Engineering
+[![Feature Engineering](https://img.youtube.com/vi/KP_05zKgj98/0.jpg)](https://youtu.be/KP_05zKgj98)
+
+

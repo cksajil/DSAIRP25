@@ -1,3 +1,7 @@
+# Introduction to Data Science and Machine Learning Python Libraries
+
+[![DSML Libraries](https://img.youtube.com/vi/gABxNYVrLKg/0.jpg)](https://youtu.be/gABxNYVrLKg)
+
 # Numpy and Pandas
 
 ## Numpy Part 1

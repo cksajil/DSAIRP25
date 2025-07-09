@@ -1,6 +1,10 @@
 # Command Line Basics
 
-[![Command Line Basics](https://img.youtube.com/vi/cWnPSnpLb2M/0.jpg)](https://www.youtube.com/watch?v=cWnPSnpLb2M)
+## Git Bash
+[![Git Bash](https://img.youtube.com/vi/cWnPSnpLb2M/0.jpg)](https://www.youtube.com/watch?v=cWnPSnpLb2M)
+
+## Basics of Command Line
+[![Command Line Basics](https://img.youtube.com/vi/B5ISXHnYVCg/0.jpg)](https://youtu.be/B5ISXHnYVCg)
 
 
 # Version Control
