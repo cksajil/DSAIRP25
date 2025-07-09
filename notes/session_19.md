@@ -1,4 +1,5 @@
 # Mathematics and its Abstract Nature
+
 [![about_math](https://img.youtube.com/vi/JfoQp_btlHo/0.jpg)](https://www.youtube.com/watch?v=JfoQp_btlHo)
 
 # Linear Algebra for Data Science
@@ -14,7 +15,8 @@
 - Lives in an abstract vector space
 
 - Direction in abstract sense
-[![row_col_vectors](https://img.youtube.com/vi/ks7YatPVfxI/0.jpg)](https://youtu.be/ks7YatPVfxI)
+
+[![vector_direction](https://img.youtube.com/vi/ks7YatPVfxI/0.jpg)](https://youtu.be/ks7YatPVfxI)
 
 - Can be 2D, 3D, ..., ND
 - Notation basics
@@ -25,15 +27,16 @@
 
 
 - Basis of vector
-[![unit_vector](https://img.youtube.com/vi/S1ipna8-ipM/0.jpg)](https://youtu.be/S1ipna8-ipM)
 
-    - In terms of fundamental components: linear independance
-    - Changing of basis
+[![basis_vector](https://img.youtube.com/vi/S1ipna8-ipM/0.jpg)](https://youtu.be/S1ipna8-ipM)
+
+- In terms of fundamental components: linear independance
+- Changing of basis
 
 - Distance of a point from origin
 - Magnitude/norms of vectors $L_1$ and $L_2$ norm, $L_p$ norm
 
-[![unit_vector](https://img.youtube.com/vi/GdGxteaAt3M/0.jpg)](https://youtu.be/GdGxteaAt3M)
+[![vector_magnitude](https://img.youtube.com/vi/GdGxteaAt3M/0.jpg)](https://youtu.be/GdGxteaAt3M)
 
 
 - Unit vector
@@ -50,12 +53,14 @@
     - Angle between two vectors
 
 - Concept of orthogonality
+
 [![orthogonality](https://img.youtube.com/vi/oDjwNhk1jSs/0.jpg)](https://youtu.be/oDjwNhk1jSs)
 
 [![orthogonality2](https://img.youtube.com/vi/tqxq3XBW53E/0.jpg)](https://youtu.be/tqxq3XBW53E)
 
 
 - Cosine similarity 
+
 [![cosine_similarity](https://img.youtube.com/vi//LfjWIj9yW4s/0.jpg)](https://youtu.be/LfjWIj9yW4s)
 
 - General equation of line/plain
@@ -69,7 +74,8 @@
 
 
 - Matrices as Transformation on vectors
-[![mat_inv](https://img.youtube.com/vi/MmL-KLK-a9c/0.jpg)](https://youtu.be/MmL-KLK-a9c)
+
+[![mat_trans](https://img.youtube.com/vi/MmL-KLK-a9c/0.jpg)](https://youtu.be/MmL-KLK-a9c)
 
 
 - Matrix multiplication as reversible/irreversible AB!=BA
@@ -77,8 +83,6 @@
 - Inverse of Matrix
 
 [![mat_inv](https://img.youtube.com/vi/BSlbJ8gwZMM/0.jpg)](https://youtu.be/BSlbJ8gwZMM)
-
-
 
 
 - Eigen values and eigen vectors
