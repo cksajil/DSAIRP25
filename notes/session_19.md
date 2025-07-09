@@ -16,6 +16,7 @@
 
 - Direction in abstract sense
 
+
 [![vector_direction](https://img.youtube.com/vi/ks7YatPVfxI/0.jpg)](https://youtu.be/ks7YatPVfxI)
 
 - Can be 2D, 3D, ..., ND
