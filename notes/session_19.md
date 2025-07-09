@@ -40,7 +40,12 @@
 - Matrices as Transformation on vectors
 - Matrix multiplication as reversible/irreversible AB!=BA
 - Inverse of Matrix
+
 - Eigen values and eigen vectors
+
+[![eigen_val_vec](https://img.youtube.com/vi/vrEPiB5-7d8/0.jpg)](https://youtu.be/vrEPiB5-7d8)
+
+
 - Matrix Factorization
     - SVD/UV
 
