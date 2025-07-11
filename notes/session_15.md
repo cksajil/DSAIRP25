@@ -50,6 +50,9 @@ $p^{th} \text{percentile} = \frac{P\times(n+1)}{100}$
  - standard deviation
  - z-score (used for standardization)
  - Confidence Interval (CI)
+ - Covariance
+
+ $\text{Cov}(x, y)= \sigma_{xy} = \frac{\sum_{i=1}^{n} (x_i - \bar{x})(y_i - \bar{y})}{N} $
 
 ## Correlation Vs. Causation
 [![corr_cause](https://img.youtube.com/vi/gh1MV72Otm0/0.jpg)](https://www.youtube.com/watch?v=gh1MV72Otm0)
