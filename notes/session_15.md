@@ -28,6 +28,8 @@
 [![Percentiles and Quartiles](https://img.youtube.com/vi/5Zb8EExsXsI/0.jpg)](https://youtu.be/5Zb8EExsXsI)
 
 - Percentile
+
+$p^{th} \text{percentile} = \frac{P\times(n+1)}{100}$ 
 - Quartiles (Q1, Q2, Q3)
 - Interquartile range (IQR = Q3 - Q1)
 - Min
@@ -54,6 +56,8 @@
 
 ## Correlation coefficient (-1 to 1)
  - Pearson correlation coefficient
+
+ $r = \frac{\Sigma(x_i - \bar x)(y_i - \bar y)}{\sqrt{\Sigma (x_i - \bar x)^2}\Sigma(y_i - \bar y)^2}$
  - Sphearman's rank correlation
 
 ## Scatter plot (Bivariate analysis)
