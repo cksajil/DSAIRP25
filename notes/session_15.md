@@ -57,7 +57,7 @@ $p^{th} \text{percentile} = \frac{P\times(n+1)}{100}$
 ## Correlation coefficient (-1 to 1)
  - Pearson correlation coefficient
 
- $r = \frac{\Sigma(x_i - \bar x)(y_i - \bar y)}{\sqrt{\Sigma (x_i - \bar x)^2}\Sigma(y_i - \bar y)^2}$
+ $r = \frac{\Sigma(x_i - \bar x)(y_i - \bar y)}{\sqrt{\Sigma (x_i - \bar x)^2\Sigma(y_i - \bar y)^2}}$
  - Sphearman's rank correlation
 
 ## Scatter plot (Bivariate analysis)
