@@ -122,3 +122,4 @@ Sample Data
 
 ## Reference 
 1 . [Data Lab Tutorial](https://datatab.net/tutorial/hypothesis-testing)
+2.  [T.TEST Google Sheets] (https://support.google.com/docs/answer/6055837?hl=en)
