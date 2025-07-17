@@ -27,3 +27,27 @@ x_scaled = (x-mean(x))/stdev(x)
 - Pickle Scalers and Encoders
 - Separating features and labels
 - Train-test split
+
+# Feature Engineering
+- Feature engineering is often done by domain experts/researchers in that specific field.
+- This is often resulted from many decades of research findings.
+- When you are working on any specific domain, you will have to discuss with domain experts.
+- Read Scientific Literature
+- Deep learning: Automaticall learn correct featurization with lots of data
+
+## Domain Specific Transformations
+- Audio
+    - FFT
+    - STFT
+    - MFCC (for speech)
+
+## Generic Feature Engineering Methods
+- Feature Selection based on correlation to target column
+    - Data Preprocessing
+    - Compute correlation w.r.t. Target column
+    - Take absolute value of correlation
+    - Sort in descending order and find most relevant features 
+- Log transformation for tailed distributed numerical columns
+
+- Feature Binning
+- Indicator Variable
