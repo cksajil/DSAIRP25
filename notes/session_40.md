@@ -37,8 +37,8 @@ x_scaled = (x-mean(x))/stdev(x)
 
 ## Domain Specific Transformations
 - Audio
-    - FFT
-    - STFT
+    - FFT (non-speech)
+    - STFT (non-speech)
     - MFCC (for speech)
 
 ## Generic Feature Engineering Methods
@@ -51,3 +51,4 @@ x_scaled = (x-mean(x))/stdev(x)
 
 - Feature Binning
 - Indicator Variable
+- Use orthogonal features
