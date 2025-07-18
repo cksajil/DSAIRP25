@@ -52,3 +52,4 @@ x_scaled = (x-mean(x))/stdev(x)
 - Feature Binning
 - Indicator Variable
 - Use orthogonal features
+- Polynomial Transformation
