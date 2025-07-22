@@ -2,7 +2,7 @@
 
 Reference repository containing a list of topics across various sessions from the Data Science and Analytics Industry Readiness Program 2025 course at ICT Academy of Kerala.
 
-| Session No. | Session Nam  | Notes |Notebook | Open in Colab |
+| Session No. | Session Name  | Notes |Notebook | Open in Colab |
 |-------------|-----------------------------------------------------|------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 | 1 | Life Skills | [session_01.md](notes/session_01.md) | | |    
 | 2 | IT Foundations for Data Science | [session_02.md](notes/session_02.md) | |  |
