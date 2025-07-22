@@ -26,7 +26,7 @@ Reference repository containing a list of topics across various sessions from th
 | 20 | Probability for Data Science | [session_20.md](notes/session_20.md) | | |
 | 21 | Linear Algebra & Probability Case Study | [session_21.md](notes/session_21.md)| | |   
 | 22 | Calculus for Data Science | [session_22.md](notes/session_22.md) | | |
-| 23 | Numpy and Pandas | [session_23.md](notes/session_23.md) | | |
+| 23 | Numpy and Pandas | [session_23.md](notes/session_23.md) |[numpy_pandas](notebooks/AIML_Sep_2024_Session_06_NumPy_Pandas_Sajil.ipynb) | |
 | 24 | Case Study on Numpy and Pandas    | [session_24.md](notes/session_24.md) | | | 
 | 25 | Data Engineering with Python      | [session_25.md](notes/session_25.md) | | |
 | 26 | SQL Basics and CRUD               | [session_26.md](notes/session_26.md) | | |
