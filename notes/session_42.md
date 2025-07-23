@@ -15,6 +15,28 @@
 - Scikit-Learning API usage
 - Implementation from scratch
 - Polynomial regression
+
+```python
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.linear_model import LinearRegression
+
+poly = PolynomialFeatures(degree=3, include_bias=False)
+X_poly = poly.fit_transform(X_train)
+
+model = LinearRegression()
+model.fit(X_poly, y_train)
+
+X_test_poly = poly.transform(X_test)
+y_test_pred = model.predict(X_test_poly)
+
+mse = mean_squared_error(y_test, y_test_pred)
+r2 = r2_score(y_test, y_test_pred)
+print(f"Mean Squared Error: {mse:.2f}")
+print(f"R-squared: {r2:.2f}")
+```
+
+
+
 - Regularization
 
 
