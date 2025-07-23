@@ -8,6 +8,15 @@
 - Polynomial regression
 - Regularization
 
+
+## Regression Performance Metrics
+- Regression
+    - Mean Absolute Error (MAE): Average absolute difference between actual and predicted values.
+    - Mean Squared Error (MSE): Average squared difference.
+    - Root Mean Squared Error (RMSE): Square root of MSE.
+    - R-squared (Δ²): Proportion of variance explained by the model.
+    - Mean Absolute Percentage Error (MAPE): Percentage-based error.
+
 [![Classification, Regression, Clustering](https://img.youtube.com/vi/T4Ha6U0PJ7s/0.jpg)](https://youtu.be/v=T4Ha6U0PJ7s)
 
 # Linear Regression & Regularization
