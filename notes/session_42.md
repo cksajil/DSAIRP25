@@ -1,3 +1,12 @@
+# Types of Algorithms
+- Supervised Learning
+	- Classification
+	- Regression
+- Unsupervised Learning
+	- Clustering
+- Reinforcement Learning
+
+
 # Introduction to Classification, Regression and Clustering
 - What is classification and regression
 - What is regression
