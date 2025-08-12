@@ -10,6 +10,10 @@
 ### Histogram
 ### Scatter Plot
 ### Heatmap
+
+![Triangular Correlation Heatmap](https://img.youtube.com/vi/7RMbrZgUBp8/0.jpg)](https://www.youtube.com/watch?v=7RMbrZgUBp8)
+
+
 ### Box-plot
 ## Seaborn
 
