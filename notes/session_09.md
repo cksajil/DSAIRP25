@@ -79,3 +79,9 @@ if x > 10:
 ```
 
 # Indexing and Slicing Operation
+
+## Python Split and Join
+
+[![Python split join](https://img.youtube.com/vi/_W--TwDA6Nk/0.jpg)](https://www.youtube.com/watch?v=_W--TwDA6Nk)
+
+

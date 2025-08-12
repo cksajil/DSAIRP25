@@ -44,6 +44,10 @@
 
 [![unit_vector](https://img.youtube.com/vi/l-CbspzeHlY/0.jpg)](https://youtu.be/l-CbspzeHlY)
 
+- Vector Projection
+
+[![vector_projection](https://img.youtube.com/vi/BXS7Ccb-Us8/0.jpg)](https://www.youtube.com/watch?v=BXS7Ccb-Us8)
+
 
 - Distance between points
     - Euclidean distance
@@ -53,12 +57,11 @@
     - $a \cdot b = \Vert a\Vert \Vert b \Vert \cos \theta$
     - Angle between two vectors
 
+[![dot_product](https://img.youtube.com/vi/tqxq3XBW53E/0.jpg)](https://www.youtube.com/watch?v=tqxq3XBW53E)
+
 - Concept of orthogonality
 
 [![orthogonality](https://img.youtube.com/vi/oDjwNhk1jSs/0.jpg)](https://youtu.be/oDjwNhk1jSs)
-
-[![orthogonality2](https://img.youtube.com/vi/tqxq3XBW53E/0.jpg)](https://youtu.be/tqxq3XBW53E)
-
 
 - Cosine similarity 
 

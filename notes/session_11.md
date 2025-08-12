@@ -23,12 +23,17 @@
 
 [![Python practice 001](https://img.youtube.com/vi/fc7VKrSvF_E/0.jpg)](https://www.youtube.com/watch?v=fc7VKrSvF_E)
 
+[![Python practice 002](https://img.youtube.com/vi/GSWETBkd6Ho/0.jpg)](https://www.youtube.com/watch?v=GSWETBkd6Ho)
+
+[![Python practice 003](https://img.youtube.com/vi/DY8N-xNhrsY/0.jpg)](https://www.youtube.com/watch?v=DY8N-xNhrsY)
+
 [![Python practice 004](https://img.youtube.com/vi/v6r0GBcY730/0.jpg)](https://www.youtube.com/watch?v=v6r0GBcY730)
 
 [![Python practice 005](https://img.youtube.com/vi/eBLzUiQaeL8/0.jpg)](https://www.youtube.com/watch?v=eBLzUiQaeL8)
 
 [![Python practice 006](https://img.youtube.com/vi/vsaN5bgTBek/0.jpg)](https://www.youtube.com/watch?v=vsaN5bgTBek)
 
+[![Python practice 007](https://img.youtube.com/vi/rFocOiHnbEs/0.jpg)](https://www.youtube.com/watch?v=rFocOiHnbEs)
 
 
 1. Data Types and Operators

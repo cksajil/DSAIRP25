@@ -53,3 +53,6 @@ x_scaled = (x-mean(x))/stdev(x)
 - Indicator Variable
 - Use orthogonal features
 - Polynomial Transformation
+
+
+[![Image Processing for CV](https://img.youtube.com/vi/fWX0KvqE6AU/0.jpg)](https://www.youtube.com/watch?v=fWX0KvqE6AU)
