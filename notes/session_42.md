@@ -52,6 +52,11 @@ print(f"R-squared: {r2:.2f}")
 
 # Linear Regression & Regularization
 
+[![Linear Regression Intuition](https://img.youtube.com/vi/XnaJ04s6DTs/0.jpg)](https://www.youtube.com/watch?v=XnaJ04s6DTs)
+
+[![Linear Regression from Scratch](https://img.youtube.com/vi/_yiTZQ0vR60/0.jpg)](https://www.youtube.com/watch?v=_yiTZQ0vR60)
+
+
 ## Performance metric on Train and Test Data
 
 | **Train** | **Test** | **Remarks**             |
