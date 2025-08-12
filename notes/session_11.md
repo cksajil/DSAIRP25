@@ -24,6 +24,10 @@
 [![Python practice 001](https://img.youtube.com/vi/fc7VKrSvF_E/0.jpg)](https://www.youtube.com/watch?v=fc7VKrSvF_E)
 
 
+[![Python practice 006](https://img.youtube.com/vi/vsaN5bgTBek/0.jpg)](https://www.youtube.com/watch?v=vsaN5bgTBek)
+
+
+
 1. Data Types and Operators
 - Write a program to add two integers.
 - Write a program to subtract two floats.
