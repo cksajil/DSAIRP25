@@ -1,6 +1,9 @@
 # Logistic Regression
 # Naive Bayes
 # KNN
+
+[![KNN from scratch](https://img.youtube.com/vi/8cHGBZ_3K-8/0.jpg)](https://www.youtube.com/watch?v=8cHGBZ_3K-8)
+
 # Hyperparameters
 
 # Models and Tasks
