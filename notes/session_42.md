@@ -57,6 +57,11 @@ print(f"R-squared: {r2:.2f}")
 [![Linear Regression from Scratch](https://img.youtube.com/vi/_yiTZQ0vR60/0.jpg)](https://www.youtube.com/watch?v=_yiTZQ0vR60)
 
 
+## Quick Introduction to Bias and Variance
+
+[![Intro 2 Bias and Variance ](https://img.youtube.com/vi/vEKaehF3d9U/0.jpg)](https://www.youtube.com/watch?v=vEKaehF3d9U)
+
+
 ## Performance metric on Train and Test Data
 
 | **Train** | **Test** | **Remarks**             |
