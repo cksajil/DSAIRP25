@@ -23,6 +23,9 @@
 
 [![Python practice 001](https://img.youtube.com/vi/fc7VKrSvF_E/0.jpg)](https://www.youtube.com/watch?v=fc7VKrSvF_E)
 
+[![Python practice 004](https://img.youtube.com/vi/v6r0GBcY730/0.jpg)](https://www.youtube.com/watch?v=v6r0GBcY730)
+
+[![Python practice 005](https://img.youtube.com/vi/eBLzUiQaeL8/0.jpg)](https://www.youtube.com/watch?v=eBLzUiQaeL8)
 
 [![Python practice 006](https://img.youtube.com/vi/vsaN5bgTBek/0.jpg)](https://www.youtube.com/watch?v=vsaN5bgTBek)
 
