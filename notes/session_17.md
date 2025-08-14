@@ -99,7 +99,7 @@ The steps are as follows
 
 - $t = \dfrac{\overline{x_{1}}-\overline{x_{2}}}{\sqrt{(\dfrac{s_{1}^2}{n_{1}}+\dfrac{s_{2}^2}{{n_{2}}}})}$; for one tailed
 - $t = \dfrac{\overline{x_{1}}-\overline{x_{2}}}{S_p\sqrt{(\dfrac{1}{n_{1}}+\dfrac{1}{{n_{2}}}})}$; for two tailed
-  - $S_p = \frac{(n_1-1){s_1}^2+(n_2-1){s_2}^2}{n_1+n_2-2}$; known as pooled standard deviation
+  - $S_p = \sqrt{\frac{(n_1-1){s_1}^2+(n_2-1){s_2}^2}{n_1+n_2-2}}$; known as pooled standard deviation
 
 - $\bar{x_1}$ = sample mean of group 1
 - $\bar{x_2}$ = sample mean of group 2
