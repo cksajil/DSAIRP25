@@ -45,7 +45,7 @@ $Z=\dfrac{\bar{x}-\mu}{\left(\frac{\sigma}{\sqrt{n}}\right)} \nonumber$
 - $n$ = sample size
 
 5. Find p-value using [Z-Table](https://math.arizona.edu/~rsims/ma464/standardnormaltable.pdf) and Z-test statistic computed
-6. if p-value < $\alpha$, then we fail to reject null Hypothesis
+6. if p-value > $\alpha$, then we fail to reject null Hypothesis
 7. There are one-tailed and two-tailed tests
 
 ## Z-test Practice Problem
