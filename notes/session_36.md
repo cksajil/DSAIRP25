@@ -126,7 +126,7 @@ Why Tableau is popular:
 - Adjusting dashboard size
     - Custom size and automatic
 - Inserting multiple charts into dashboard
-- Publishing dashboards
+- Publishing & sharing dashboards
 
 ## Joining Tables
 - Left Join
