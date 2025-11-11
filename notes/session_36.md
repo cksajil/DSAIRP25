@@ -26,6 +26,13 @@ It answers business questions like:
 - A YouTuber reviewing watch-time and traffic analytics.
 - A school analyzing which subjects students struggle in.
 
+## Data Science Job Roles
+- Data Analysts
+- Data Scientists
+- Data Engineers
+- MLOPs Engineer
+- Data Visualization Expert
+
 Tableau is used by:
 - Data analysts
 - Business analysts
@@ -59,9 +66,10 @@ Why Tableau is popular:
 - Used by both technical and non-technical people
 
 ## Data Visualization Fundamentals
-- Edward Tufte
-    - The Visual Display of Quantitative Information
-- Alberto Cairo 
+- Resources
+    - Edward Tufte
+        - The Visual Display of Quantitative Information
+    - Alberto Cairo 
 
 ## Installation
 - Download and Install Tableau Desktop Free Trail Version
@@ -108,16 +116,10 @@ Why Tableau is popular:
     - Calculated Field
 
 - Bargraph
-    - Sorting
+    - Sorting (one axis should be categorical)
 - Pie Chart
 - Box plot
 - Maps
-
-## Joining Tables
-- Left Join
-- Right Join
-- Inner Join
-- Full Outer Join
 
 ## Creating Dashboard
 - Dashboard button
@@ -125,3 +127,9 @@ Why Tableau is popular:
     - Custom size and automatic
 - Inserting multiple charts into dashboard
 - Publishing dashboards
+
+## Joining Tables
+- Left Join
+- Right Join
+- Inner Join
+- Full Outer Join
