@@ -7,7 +7,8 @@ The main topics we will be covering today are:
 - Installation
 - Connecting to Excel/CSV
 - Chart creation in Tableau
-- Dashboard creation in Tableau
+- What is Dashboard ?
+    - Dashboard creation in Tableau
 
 ## What is Tableau?
 Tableau is a Business Intelligence tool from Salesforce that helps us turn raw data into meaningful insights — using dashboards, charts and reports.
@@ -25,19 +26,19 @@ It answers business questions like:
 - A YouTuber reviewing watch-time and traffic analytics.
 - A school analyzing which subjects students struggle in.
 
-Power BI is used by:
+Tableau is used by:
 - Data analysts
 - Business analysts
 - Managers
 - Start-ups and large enterprises
 - Anyone who works with data in Excel
 
-Why Power BI is popular:
+Why Tableau is popular:
 - It’s free trail to use for personal reporting (Tableau Desktop)
 - Easy to learn for non-coding people
 - Used widely in industry (Finance, Marketing, Retail, HR, IT)
 
-**“Why are we learning this?”**
+**Why are we learning this?**
 - Every company today collects huge amounts of data — but raw data alone is not useful.
 - Tools like Tableau helps convert raw data into dashboards, insights, and clear decisions.
 - BI tools like Tableau are used in IT, healthcare, finance, retail, startups, government — everywhere.
@@ -51,11 +52,11 @@ Why Power BI is popular:
 - It saves time by automating reports that would take hours manually.
 
 ## Tableau is:
-- visual  
-- drag-and-drop  
-- beginner-friendly  
-- industry standard  
-- used by both technical and non-technical people”
+- Visual  
+- Drag-and-drop  
+- Beginner-friendly  
+- Industry standard  
+- Used by both technical and non-technical people
 
 ## Data Visualization Fundamentals
 - Edward Tufte
@@ -63,29 +64,53 @@ Why Power BI is popular:
 - Alberto Cairo 
 
 ## Installation
-- Install Tableau Desktop Free Trail Version
+- Download and Install Tableau Desktop Free Trail Version
+- Google Tableau or go to tableau.com/products --> Select Tableau Desktop
+- Signup for a Tableau account
 
 ## Loading Data
 - Loading CSV Files
 - Data -> Add new Data Source
 
-## Features
-- Sheet button
+## Tableau Interface
+- Viewing tables
+- Viewing Data preview
+    - Rows and colums
+    - Selecting first x rows
+- Data Source
+- Sheet
+- New Worksheet
+- Dashboard
+- New Story
+
+### Sheet
+- Sheet page
 - Rows and Columns
+- Marks
 - Filters
+- Table columns in left side 
+- Showme on right side
 
 ## Types of Plots
-- Bargraph
-    - Sorting
 - Line Chart
-- Pie Chart
-- Box plot
+    - Model year (column) vs MPG (row)
+    - Changing measure
+    - What about the trend Model year (column) vs weight (row)?
+
 - Customizing Plots
     - Adding Titles
     - Changing colors
     - Selecting fonts and adjusting font size
+        - Rightclick-->Format
+    - Right click on line and change style, color etc.
+    - Label-->Show mark labels
+    - Filters
     - Calculated Field
-- Time series plot customizations
+
+- Bargraph
+    - Sorting
+- Pie Chart
+- Box plot
 - Maps
 
 ## Joining Tables
@@ -98,3 +123,5 @@ Why Power BI is popular:
 - Dashboard button
 - Adjusting dashboard size
     - Custom size and automatic
+- Inserting multiple charts into dashboard
+- Publishing dashboards
