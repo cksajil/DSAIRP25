@@ -42,9 +42,23 @@
 - Intersection
 - Factorial
 
+| **Likes Popcorn** | **Loves Movies** |
+|-------------------|------------------|
+| Yes               | Yes              |
+| Yes               | Yes              |
+| Yes               | Yes              |
+| No                | No               |
+| No                | Yes              |
+
 ## Dependent and Independent Events
 ## Joint probability
 ## Marginal Probability
+
+|                   	| Likes Popcorn: Yes 	| Likes Popcorn: No 	| P(Movies) 	|
+|-------------------	|--------------------	|-------------------	|-----------	|
+| Likes Movies: Yes 	| 3/5                	| 1/5               	| 4/5       	|
+| Likes Movies: No  	| 0/5                	| 1/5               	| 1/5       	|
+| P(Popcorn)        	| 3/5                	| 2/5               	|           	|
 
 ## Conditional Probability
 - Similarity to Hypothesis testing
@@ -53,6 +67,7 @@
 - Prior
 - Likelihood
 - Posterior
+- Usage in Naive Bayes Algorithm
 	
 ## Difference between conditional probability and Bayes theorem
 ## Revisiting Likelihood
